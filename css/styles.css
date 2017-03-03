@@ -1,0 +1,17 @@
+.main {
+  margin: 150px;
+}
+
+.player1 {
+  float: right;
+
+}
+
+.player2 {
+  float: left;
+}
+
+.col-md-4 {
+  border-style: double;
+  text-align: center;
+}
